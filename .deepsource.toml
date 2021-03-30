@@ -9,6 +9,7 @@ dependency_file_paths = ["req.txt"]
   runtime_version = "3.x.x"
   additional_builtins = [
     "_",
+    "__",
   ]
   type_checker = "mypy"
   
